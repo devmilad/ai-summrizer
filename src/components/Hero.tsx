@@ -8,7 +8,7 @@ export const Hero = () => {
 
           <button
             type='button'
-            onClick={()=>window.open('https://devmilad.ir')}
+            onClick={()=>window.open('https://github.com/devmilad')}
             className='black_btn'
           >
             GitHub
