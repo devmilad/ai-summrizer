@@ -1,4 +1,4 @@
-[#Visit website](https://gym-gold-devmilad.vercel.app/)
+[#Visit website]([https://gym-gold-devmilad.vercel.app/](https://ai-summrizer.vercel.app/))
 
 ![Screenshot](https://cdn.sanity.io/images/4aqurx4h/production/f9c29e2c6518362d9dd396732a688a476b72855c-1280x720.png)
 
@@ -6,7 +6,7 @@
 Welcome to our GitHub repository! 👋 
 We're thrilled to share how artificial intelligence (AI) is transforming every industry. With our AI-driven web summarization tool, you can effortlessly provide a website link, and we'll do the rest! 🌐✨
 
-##How it Works
+## How it Works
 * Input: Simply provide the URL of the website.
 * Output: Our AI system will generate a concise summary of the website's contents.
 
